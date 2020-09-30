@@ -1,0 +1,8 @@
+node_modules
+build
+**/*.log
+/**/*.lock
+/**/*-lock.*
+
+# .env          # Include before publishing to github
+# .env.test     # Include before publishing to github
